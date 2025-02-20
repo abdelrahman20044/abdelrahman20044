@@ -83,5 +83,4 @@
   <a href="https://github.com/abdelrahman20044"><img alt="Abdelrahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman20044&theme=onedark&show_icons=true&hide_border=true&layout=compact" height=192px/></a>
   <br/>
 </a>
-ChatGPT said:
 ​
