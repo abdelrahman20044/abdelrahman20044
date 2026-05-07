@@ -14,7 +14,7 @@
   <samp>
     <a href="https://t.me/elmansy2004">「 contact Me 」</a>
     <br>
-    「 I am a Software Engineer <b>in development<b> 」
+    「 Backend Developer — Node.js / Express / MongoDB 」
     <br>
     <br>
   </samp>
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Abdelrahman-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Abdelrahman"  />
   </a> 
 </p>
+
 <br />
 
 <!-- About Section -->
@@ -43,28 +44,36 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-<!--- 🏢 I'm a Software Engineer -->
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡  Fact: I'm a coffee enthusiast
+- 🎓 CS Student @ Mansoura University
+- 👨‍💻 I build REST APIs with Node.js, Express, and MongoDB
+- ☁️ AWS Certified Cloud Practitioner
 
 ## Use To Code
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </p>
 
 <br/>
 
 ## Top Open Source -
+
 <p align="left">
   <a href="https://github.com/abdelrahman20044?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/">
@@ -83,4 +92,3 @@
   <a href="https://github.com/abdelrahman20044"><img alt="Abdelrahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman20044&theme=onedark&show_icons=true&hide_border=true&layout=compact" height=192px/></a>
   <br/>
 </a>
-​
